@@ -28,3 +28,8 @@ AI Growth Hub
 ## Sample Script:
 Intro:
 In today's video, I will show you 5 free AI tools that can help you earn money online...
+
+
+## Future Plan:
+- Start YouTube channel
+- Upload 1 video per week
